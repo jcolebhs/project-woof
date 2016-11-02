@@ -1,1 +1,90 @@
-/* CSS Here */
+.clear {
+	clear: both;
+}
+h1 {
+	text-align: center;
+	color: white;
+	font-size: 75px;
+	padding-top: 25px;
+	border-top: 10px solid #000;
+	border-bottom: 10px solid #000;
+	background-color: #5B2323;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #3A1717
+}
+
+p {
+	text-align: center;
+	color: white;
+	font-size: 20px;
+}
+
+img {
+	display: block;
+	margin: auto;
+}
+
+h3 {
+    border-top: 5px solid #000;
+  border-bottom: 5px solid #000;
+  font-size: 30px;
+  background-color: #5B2323;
+  text-align: center;
+}
+}
+
+table.benefits {
+ margin: 0 auto;
+}
+
+th {
+  color: white;
+  font-size:25px;
+  border-bottom: 10px solid #000
+}
+
+td {
+  padding: 15px;
+  text-align: center;
+  color: white;
+}
+h2 {
+  border-top: 5px solid #000;
+  border-bottom: 5px solid #000;
+  font-size: 30px;
+  background-color: #5B2323;
+  text-align: center;
+}
+
+.history-photo {
+	float: left;
+	width: 50%;
+}
+
+footer{
+	border-top: 10px solid #000;
+	border-bottom: 10px solid #000;
+	width: 100%;
+	background-color: #693737;
+	margin-top: 50px;
+}
+
+.footer-social {
+	text-align: center;
+}
+
+.footer-social li {
+		display: inline-block;
+		list-style-type: none;
+		margin: 0 10px;
+		width: 50px;
+		height: auto;	
+}
+
+.footer-social li img {
+	width:100%;
+}
